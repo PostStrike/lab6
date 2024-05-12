@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab6.dir/main.cpp.o -o lab6  polinomials/libpolinomials.a 

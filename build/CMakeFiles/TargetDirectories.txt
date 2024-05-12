@@ -1,0 +1,9 @@
+/home/ivan/prog/Aladin/lab6/build/CMakeFiles/lab6.dir
+/home/ivan/prog/Aladin/lab6/build/CMakeFiles/edit_cache.dir
+/home/ivan/prog/Aladin/lab6/build/CMakeFiles/rebuild_cache.dir
+/home/ivan/prog/Aladin/lab6/build/polinomials/CMakeFiles/polinomials.dir
+/home/ivan/prog/Aladin/lab6/build/polinomials/CMakeFiles/edit_cache.dir
+/home/ivan/prog/Aladin/lab6/build/polinomials/CMakeFiles/rebuild_cache.dir
+/home/ivan/prog/Aladin/lab6/build/myvector/CMakeFiles/myvector.dir
+/home/ivan/prog/Aladin/lab6/build/myvector/CMakeFiles/edit_cache.dir
+/home/ivan/prog/Aladin/lab6/build/myvector/CMakeFiles/rebuild_cache.dir

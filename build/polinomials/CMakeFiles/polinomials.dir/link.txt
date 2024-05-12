@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpolinomials.a CMakeFiles/polinomials.dir/polinomials.cpp.o
+/usr/bin/ranlib libpolinomials.a
